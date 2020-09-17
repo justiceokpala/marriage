@@ -27,10 +27,78 @@ fieldset{
 
 .pink{
     background-color: rgb(248, 12, 142) !important;
+    padding-bottom: 20px;
 }
 
 .square{
-    width: 40px;
-    height: 40px;
+    width: 100px;
+    height: 100px;
     background-color :white;
+}
+
+.couples{
+    background-image: url(../assets/images/testimonials.jpg);
+}
+
+.couple1{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    align-content: center;
+    padding-bottom: 5px;
+
+}
+
+.couple2{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    align-content: center;
+    padding-bottom: 5px;
+
+}
+
+.pinkbg{
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+}
+
+.whitebg{
+    width: 350px;
+    height:100px;
+    background-color: rgb(238, 224, 224);
+}
+
+h6{
+    text-align: center;
+}
+
+.footer{
+    background-image: url(../images/footer.jpg);
+}
+
+.h5footer{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.pfooter{
+    text-align: center;
+    padding-bottom: 30px;
+}
+h3{
+    text-align: center;
+}
+
+.h4choose{
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+
+.h4statistics{
+    margin-bottom: 30px;
+}
+
+.recentlymarried{
+    padding-bottom: 20px;
 }
